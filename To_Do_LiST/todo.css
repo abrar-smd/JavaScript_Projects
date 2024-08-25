@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient(to top, #bdc2e8 0%, #bdc2e8 1%, #e6dee9 100%);
+    background-attachment: fixed;
+}
+.col-md-5{
+    margin: 150px !important;
+    padding: 20px;
+    background-color: rgb(26, 26, 26,0.5);
+}
+button{
+    margin-left : 10px !important;
+}
+h1{
+    font-weight: bolder !important;
+    text-align: center;
+    margin: 20px !important;
+}
+input{
+    border: 3px solid black !important;
+    border-radius: 10px !important;
+    display: inline !important;
+    width: 80% !important;
+}
+li{
+    list-style-type: none !important;
+    font-size: 20px !important;
+    text-align: center;
+    margin: 10px !important;
+    padding: 5px !important;
+    border-radius: 10px !important;
+    width: 80% !important;
+    display: inline;
+}
+i{
+    color: red;
+}
